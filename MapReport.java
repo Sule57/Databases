@@ -9,7 +9,7 @@ import java.sql.DriverManager;
 public class MapReport {
 
 	private static Connection c = null;
-	private static PreparedStatement[] mapinfo = new PreparedStatement[6];
+	private static PreparedStatement[] mapinfo = new PreparedStatement[7];
 	private static ResultSet mapresult = null;
 	private static ResultSet mapresult1 = null;
 	
